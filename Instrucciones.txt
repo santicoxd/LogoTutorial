@@ -1,0 +1,15 @@
+git add . "Agregar todo al campo de trabajo / stagingArea"
+
+git commit -m "Comentario" "Mete al repesotorio local el stagingArea"
+
+git status
+
+git push origin rama "Sube los cambios a la rama"
+
+git checkout rama "Cambiar de rama"
+
+git branch ramaNombre Crear rama
+
+git pull origin rama "Bajar los cambios"
+
+
