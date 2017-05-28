@@ -23,13 +23,7 @@ public class Canvas extends JPanel {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			/*try {
-				App.getInstance().paint((Graphics2D) g);
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-			*/
+			
 		}
 
 }
